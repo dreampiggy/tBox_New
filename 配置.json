@@ -413,32 +413,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "82mao",
-		"name": "天龙资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "VIP影片,公告,动漫频道,海外动漫,国产动漫,日韩动漫,欧美动漫,港台动漫,综艺小品,微电影,电视剧场,电影频道,内地综艺,港台综艺,日韩综艺,欧美综艺",
-		"firstClass": "国产剧,香港剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://www.82mao.com/api.php/provide/vod/",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "xiaomaomi",
-		"name": "小猫咪资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "短剧,其他,成人,小破站,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
 		"key": "1080zyku",
 		"name": "1080资源",
 		"type": 1,
@@ -477,20 +451,6 @@
 		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-	},{
-		"key": "heimuer",
-		"name": "木耳资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "电影,电视剧,动漫,综艺,其它片,新马泰综艺,新马泰动漫,合集短剧,其它动漫,韩国动漫,短剧,同性片",
-		"firstClass": "国产剧,港剧,国产动漫",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://json02.heimuer.xyz/api.php/provide/vod/",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "1"
 	},{
 		"key": "hongniuzy2",
 		"name": "红牛资源",
@@ -553,19 +513,6 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://suoniapi.com/api.php/provide/vod/",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "tiankongapi",
-		"name": "天空资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "电影,体育赛事,电影解说",
-		"firstClass": "国产剧,香港剧,国产动漫",
-		"filterPlay": "tkyun",
-		"firstPlay": "tkm3u8",
-		"ext": "https://api.tiankongapi.com/api.php/provide/vod/",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
